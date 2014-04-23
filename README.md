@@ -1,4 +1,3 @@
-gimli
-=====
-
-Simple Service Locator
+GIMLI
+=========
+gimli - simple service locator.

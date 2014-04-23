@@ -1,0 +1,21 @@
+{
+  "name": "gimli",
+  "main": "./lib/di",
+  "description": "A simple Service Locator",
+  "version": "0.1.1",
+  "keywords": [
+    "di",
+    "ioc"
+  ],
+  "author": "Ivan Maksymenko <ivanmaximenko@gmail.com>",
+  "bugs": {
+    "web": "https://github.com/abdula/gimli/issues"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git://github.com/abdula/gimli"
+    }
+  ],
+  "homepage": "https://github.com/abdula/gimli"
+}
