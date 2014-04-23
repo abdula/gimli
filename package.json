@@ -1,16 +1,21 @@
 {
   "name": "gimli",
-  "main": "./lib/di",
+  "main": "./lib/index",
   "description": "A simple Service Locator",
   "version": "0.1.1",
   "keywords": [
     "di",
-    "ioc"
+    "ioc", 
+    "service locator"
   ],
   "author": "Ivan Maksymenko <ivanmaximenko@gmail.com>",
   "bugs": {
-    "web": "https://github.com/abdula/gimli/issues"
+    "url": "https://github.com/abdula/gimli/issues"
   },
+  "devDependencies": {
+    "mocha": "~1.15.1",
+    "should": "~2.1.1"
+  },  
   "repositories": [
     {
       "type": "git",
