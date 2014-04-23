@@ -2,7 +2,7 @@
   "name": "gimli",
   "main": "./lib/index",
   "description": "A simple Service Locator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "keywords": [
     "di",
     "ioc", 
