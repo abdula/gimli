@@ -16,11 +16,6 @@
     "mocha": "~1.15.1",
     "should": "~2.1.1"
   },  
-  "repositories": [
-    {
-      "type": "git",
-      "url": "git://github.com/abdula/gimli"
-    }
-  ],
+  "repository": "git://github.com/abdula/gimli",
   "homepage": "https://github.com/abdula/gimli"
 }
